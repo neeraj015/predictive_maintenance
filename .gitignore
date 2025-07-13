@@ -1,4 +1,10 @@
 venv/
+models/
+models/rf_model.pkl
+models/xgb_model.pkl
+models/lr_model.pkl
 __pycache__/
 *.pyc
 *.log
+*.pkl
+feature_list.txt
