@@ -11,4 +11,4 @@ This Streamlit app predicts the **Remaining Useful Life** of an engine using NAS
 ##  Built with:
 - Python, Streamlit, Scikit-learn, Pandas, Matplotlib
 
- [Live App](https://neeraj015-predictive-maintenance.streamlit.app/)
+ [Live App](https://predictivemaintenance-neerajworks.streamlit.app/?embed_options=dark_theme,show_colored_line)
